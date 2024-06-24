@@ -13,7 +13,7 @@ const Menu = [
     {
         name: "Ice Coffee",
         price: "$10",
-        Image: "./images/Ice-coffee.png",
+        Image: "./images/ice-coffee.png",
         category: "drinks"
 
     }, {
